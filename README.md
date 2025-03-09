@@ -109,5 +109,3 @@ Want to improve CipherGuard?
 This project is licensed under the **MIT License**.
 
 ---
-
-🚀 **Now you’re ready to push this `README.md` to GitHub!** 🔥  
